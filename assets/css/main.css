@@ -155,13 +155,14 @@ a:after {
 #green h3 {
 	color: white;
 	font-weight: 400;
-	margin-bottom: 35px;
+	font-size: 250%;
+	margin-bottom: 15px;
 }
 
 #green p {
 	color: white;
 	font-weight: 400;
-	font-size: 20px;
+	font-size: 18px;
 }
 
 /* Skills */
